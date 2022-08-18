@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lists</title>
+</head>
+<body>
+    <h1>Food To Buy</h1>
+      <ul>
+        <li>Lampredotto</li>
+        <li>hamburger</li>
+        <li>Curry</li>
+      </ul>
+    <h1>Stuff to do</h1>
+      <ol>
+        <li>feed cat</li>
+        <li>Clean litterbox</li>
+        <li>Groceries</li>
+
+      </ol> 
+    
+</body>
+</html>
